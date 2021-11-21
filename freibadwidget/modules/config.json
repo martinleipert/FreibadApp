@@ -1,0 +1,30 @@
+{
+  "open_weather": {
+    "api_key" : "cb1d12b9203c27dc4e29250f755ba4d4",
+    "lat" : 49.65,
+    "lon" : 11.25,
+    "url" : "https://api.openweathermap.org/data/2.5/onecall"
+  },
+  "hours" : {
+    "time_zone" : "MEZ",
+    "all_day" : true,
+    "opening_hour" : "10:00",
+    "closing_hour" : "19:00"
+  },
+  "season" : {
+    "start": {
+      "month": 5,
+      "day": 15
+    },
+    "end": {
+      "month": 9,
+      "day": 15
+    }
+  },
+  "weather_conditions": {
+    "min_daily_max": 19,
+    "sunny": true,
+    "cloudy": true,
+    "rainy": false
+  }
+}
