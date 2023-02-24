@@ -1,0 +1,1 @@
+python ./freibadwidget/manage.py runserver

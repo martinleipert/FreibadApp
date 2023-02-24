@@ -16,8 +16,10 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from . import update_status
+from . import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('update/', update_status)
+    path('update/', views.update),
+    path('status/', views.status)
 ]

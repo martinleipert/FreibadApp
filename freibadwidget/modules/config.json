@@ -1,8 +1,11 @@
 {
+
+  "location": {
+    "lat" : 49.65,
+    "lon" : 11.25
+  },
   "open_weather": {
     "api_key" : "cb1d12b9203c27dc4e29250f755ba4d4",
-    "lat" : 49.65,
-    "lon" : 11.25,
     "url" : "https://api.openweathermap.org/data/2.5/onecall"
   },
   "hours" : {
